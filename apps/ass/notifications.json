@@ -1,0 +1,13 @@
+{
+    "notifications": [
+        {
+            "id": 1,
+            "title": "New Project",
+            "description": "You have a new project",
+            "createdAt": "2021-01-01T00:00:00Z"
+        }
+    ], 
+    "unreadNotifications": 1,
+    "readNotifications": 1
+    
+}
